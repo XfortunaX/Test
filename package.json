@@ -1,0 +1,14 @@
+{
+  "name": "Anamorphoses",
+  "version": "1.0.0",
+  "description": "Anamorphoses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sergey Buklin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
